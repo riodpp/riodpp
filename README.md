@@ -9,8 +9,8 @@ I’m currently live in Indonesia, the beautiful country in Southeast Asia with 
 - [Utilizing Docker Operator on Airflow](https://medium.com/apache-airflow/utilizing-dockeroperator-in-airflow-to-run-containerized-applications-in-data-engineer-projects-f596df26ea83)
 
 ## Connect with Me
-- 🔗 Connect to my ![Linkedin](https://www.linkedin.com/in/riodpp)
-- 📖 Read my article in ![Medium](https://medium.com/@perkasaid.rio)
+- 🔗 Connect to my [Linkedin](https://www.linkedin.com/in/riodpp)
+- 📖 Read my article in [Medium](https://medium.com/@perkasaid.rio)
 
 ## My Stats
 <table>
