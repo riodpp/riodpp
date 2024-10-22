@@ -3,7 +3,7 @@ Rio Dwi Putra Perkasa
 </h1>
 
 You can just call me Rio. I'm a Professional Data Engineer with over 5 years of experience in Data Field.
-I’m currently live in Indonesia, the beautiful country in Southeast Asia with timezone (GMT + 7).  
+I’m currently live in Indonesia 🇮🇩, the beautiful country in Southeast Asia with timezone (GMT + 7).  
 
 ## Project
 - [Utilizing Docker Operator on Airflow](https://medium.com/apache-airflow/utilizing-dockeroperator-in-airflow-to-run-containerized-applications-in-data-engineer-projects-f596df26ea83)
